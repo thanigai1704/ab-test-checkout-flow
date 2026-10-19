@@ -96,13 +96,12 @@ streamlit run app.py
 
 ## Deployment (Streamlit Community Cloud)
 
-1. Push this folder to a public GitHub repo (root contains `app.py`, `ab_stats.py`, `.streamlit/config.toml`).
-2. https://share.streamlit.io → **New app** → repo/branch → main file `app.py` → Deploy.
-3. Add the public URL here and to the links below.
+This app is deployed on Streamlit Community Cloud and auto-redeploys on every push to `main`.
 
 ## Links
 
+- 🚀 **[Live Demo (Streamlit)](https://share.streamlit.io/thanigai1704/ab-test-checkout-flow/main/app.py)** — interactive dark-mode app on both real datasets
 - 📓 [Analysis Notebook (executed outputs)](AB_Test_Checkout_Flow_Analysis.ipynb)
-- 🌐 Streamlit live demo: *(add URL after deploying)*
+- ⚙️ [SQL data extraction & cleaning pipeline](sql/01_data_cleaning.sql)
 - 📊 Power BI dashboard: *(screenshot / PDF export — build guide included)*
 - 📄 [Written Report for stakeholders](report.md)

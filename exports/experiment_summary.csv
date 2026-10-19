@@ -1,0 +1,5 @@
+experiment,variant,sample_size,conversions,conversion_rate,lift_pct,p_value,cohen_h,is_significant,recommendation
+ecommerce_page_redesign,control,145274,17489,0.1203863045004612,0.0,,0.0,False,DO NOT SHIP (no benefit demonstrated — CI excludes the ship-worthy lift)
+ecommerce_page_redesign,treatment,145310,17264,0.11880806551510564,-0.01310978845894809,0.18988337448195103,-0.004863778291109178,False,DO NOT SHIP (no benefit demonstrated — CI excludes the ship-worthy lift)
+cookie_cats_gate_move,gate_30,44700,8502,0.19020134228187918,0.0,,0.0,False,keep gate_30 (D7 retention significantly higher)
+cookie_cats_gate_move,gate_40,45489,8279,0.18200004396667327,-0.04506206776910276,0.001554249975614329,-0.021074001016365917,True,keep gate_30 (D7 retention significantly higher)

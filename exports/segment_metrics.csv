@@ -1,0 +1,13 @@
+experiment,segment_name,variant,metric,value
+ecommerce_page_redesign,AGGREGATE,control,conversion_rate,0.1203863045004612
+ecommerce_page_redesign,AGGREGATE,treatment,conversion_rate,0.11880806551510564
+ecommerce_page_redesign,CA,control,conversion_rate,0.11878299527646569
+ecommerce_page_redesign,CA,treatment,conversion_rate,0.11190247911245035
+ecommerce_page_redesign,UK,control,conversion_rate,0.12002200220022002
+ecommerce_page_redesign,UK,treatment,conversion_rate,0.1211709965102753
+ecommerce_page_redesign,US,control,conversion_rate,0.12062998938220143
+ecommerce_page_redesign,US,treatment,conversion_rate,0.11846559963887227
+cookie_cats_gate_move,D1 Retention,gate_30,retention,0.4481879194630872
+cookie_cats_gate_move,D1 Retention,gate_40,retention,0.44228274967574577
+cookie_cats_gate_move,D7 Retention,gate_30,retention,0.19020134228187918
+cookie_cats_gate_move,D7 Retention,gate_40,retention,0.18200004396667327
